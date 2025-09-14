@@ -1,0 +1,106 @@
+---------------------------------ANIMAL REPORT---------------------------------
+
+Please enter a filename you would like to open: CassidyPena.txt
+Couldn't find the file 'CassidyPena.txt'
+Please enter a different file name (or type quit to exit) : HW 6 - Operation Kindness.csv
+File --- 'HW 6 - Operation Kindness.csv' found and opened.
+
+-------------------------------------------------------------------------------
+REPORT 1:
+
+Total number of animals are 14
+Total number of cats are 8
+Total number of dogs are 4
+The total number of 'other' animals are 2
+
+-------------------------------------------------------------------------------
+REPORT 2 | Animal report:
+
+Animal 1:
+I am a cat. My name is Morris. I am 9 years old. I weight 3 pounds. My breed is unknown. My fur color is yellow. And I am in good health. Moan!
+
+Animal 2:
+I am a cat. My name is Mittens. I am 1 years old. I weight 1 pounds. My breed is Calico. My fur color is brown and white. And I am in good health. Mew!
+
+Animal 3:
+I am a cat. My name is Junior. I am 1 years old. I weight 2 pounds. My breed is Tabby. My fur color is black. My health is unknown.  It was nice meeting you !
+
+Animal 4:
+I am a cat. My name is Priss. My age is unknown. My weight is unknown. My breed is unknown. My fur color is white. And I am in good health. Mew!
+
+Animal 5:
+I am a bird. My name is unknown. My age is unknown. My weight is unknown. My breed is Mynah. My fur color is black. My health is unknown.  Hello!
+
+Animal 6:
+I am a cat. My name is Charcoal. I am 1 years old. I weight 2 pounds. My breed is Siamese. My fur color is white and yellow. And I am in good health. Hiss!
+
+Animal 7:
+I am a dog. My name is Bitsy. I am 4 years old. I weight 6 pounds. My breed is Minx. My fur color is grey. And I am in good health. It was nice meeting you !
+
+Animal 8:
+I am a cat. My name is Charmin. My age is unknown. I weight 3 pounds. My breed is unknown. My fur color is white. And I am in parvo health. It was nice meeting you !
+
+Animal 9:
+I am a hamster. My name is Chippy. My age is unknown. I weight 1 pounds. My breed is unknown. My fur color is tan. My health is unknown.  It was nice meeting you !
+
+Animal 10:
+I am a dog. My name is Fido. I am 5 years old. I weight 7 pounds. My breed is unknown. My fur color is spotted. And I am in good health. Bark!
+
+Animal 11:
+I am a cat. My name is Red. I am 2 years old. My weight is unknown. My breed is Heinz. My fur color is redddish. And I am in parvo health. It was nice meeting you !
+
+Animal 12:
+I am a cat. My name is Cute Stuff. I am 1 years old. I weight 2 pounds. My breed is unknown. My fur color is yellow. And I am in good health. Purr!
+
+Animal 13:
+I am a dog. My name is Rex. I am 3 years old. I weight 5 pounds. My breed is unknown. My fur color is brown and white. And I am in good health. It was nice meeting you !
+
+Animal 14:
+I am a dog. My name is Spot. My age is unknown. I weight 8 pounds. My breed is Dalmation. My fur color is spotted. My health is unknown.  Woof!
+
+-------------------------------------------------------------------------------
+REPORT 3 | Cat report:
+
+Cat 1:
+My name is Morris. I am 9 years old. I weight 3 pounds. My breed is unknown. My fur color is yellow. And I am in good health. Moan!
+
+Cat 2:
+My name is Mittens. I am 1 years old. I weight 1 pounds. My breed is Calico. My fur color is brown and white. And I am in good health. Mew!
+
+Cat 3:
+My name is Junior. I am 1 years old. I weight 2 pounds. My breed is Tabby. My fur color is black. My health is unknown. It was nice meeting you !
+
+Cat 4:
+My name is Priss. My age is unknown. My weight is unknown. My breed is unknown. My fur color is white. And I am in good health. Mew!
+
+Cat 5:
+My name is Charcoal. I am 1 years old. I weight 2 pounds. My breed is Siamese. My fur color is white and yellow. And I am in good health. Hiss!
+
+Cat 6:
+My name is Charmin. My age is unknown. I weight 3 pounds. My breed is unknown. My fur color is white. And I am in parvo health. It was nice meeting you !
+
+Cat 7:
+My name is Red. I am 2 years old. My weight is unknown. My breed is Heinz. My fur color is redddish. And I am in parvo health. It was nice meeting you !
+
+Cat 8:
+My name is Cute Stuff. I am 1 years old. I weight 2 pounds. My breed is unknown. My fur color is yellow. And I am in good health. Purr!
+
+-------------------------------------------------------------------------------
+REPORT 4 | Dog report:
+
+Dog 1:
+My name is Bitsy. I am 4 years old. I weight 6 pounds. My breed is Minx. My fur color is grey. And I am in good health. It was nice meeting you !
+
+Dog 2:
+My name is Fido. I am 5 years old. I weight 7 pounds. My breed is unknown. My fur color is spotted. And I am in good health. Bark!
+
+Dog 3:
+My name is Rex. I am 3 years old. I weight 5 pounds. My breed is unknown. My fur color is brown and white. And I am in good health. It was nice meeting you !
+
+Dog 4:
+My name is Spot. My age is unknown. I weight 8 pounds. My breed is Dalmation. My fur color is spotted. My health is unknown. Woof!
+
+-------------------------------------------------------------------------------
+
+Process returned 0 (0x0)   execution time : 9.558 s
+Press any key to continue.
